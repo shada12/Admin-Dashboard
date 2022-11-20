@@ -460,7 +460,7 @@ button {
   color: black;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 960px) {
   .container {
     width: 100%;
     height: 100%;
